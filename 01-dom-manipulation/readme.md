@@ -6,9 +6,7 @@
 
 ## [EASY-1]
 
-[QUESTION]
-
-Select the <h1 id="main-heading"> and change its textContent to "My Awesome Shop".
+[QUESTION]Select the <h1 id="main-heading"> and change its textContent to "My Awesome Shop".
 [CODE]
 <pre>
   document.getElementById("main-heading").textContent="My Awesome Shop"
