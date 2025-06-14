@@ -7,7 +7,7 @@
 ## [EASY-1]
 
 [QUESTION]
-**Select the heading and change its textContent to "My Awesome Shop".**
+Select the heading and change its textContent to "My Awesome Shop".
 [CODE]
 <pre>
   document.getElementById("main-heading").textContent="My Awesome Shop"
@@ -17,7 +17,7 @@
 
 ## [EASY-2]
 [QUESTION]
-**Select the <p class="tagline"> and change its innerHTML to "Find the <strong>best</strong> products here!".**
+Select the paragraph with classname tagline and change its innerHTML to "Find the <strong>best</strong> products here!".
 [CODE]
 <pre>
   document.getElementsByClassName("tagline")[0].innerHTML="Find the <strong>best</strong> products here!"
@@ -27,7 +27,7 @@
 
 ## [EASY-3]
 [QUESTION]
-**Select the <footer>'s <p> and change its text to include your name and the current year.**
+Select the footer's p and change its text to include your name and the current year.
 [CODE]
 <pre>
 document.querySelector("footer p").textContent = "&copy; 2025 Charishma Gajula!";
