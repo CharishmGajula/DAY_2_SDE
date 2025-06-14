@@ -41,6 +41,7 @@ product_list.innerHTML=array_of_products.join("");
 3. Render these product items inside the `<ul id="product-list">`.
 [CODE]
 <pre>
+```
 const in_stock_elements=products.filter(product=>product.inStock==true).map(product=>`
 <li class="product-item">
     <h3>${product.name}</h3>
@@ -48,6 +49,7 @@ const in_stock_elements=products.filter(product=>product.inStock==true).map(prod
 </li>
 `);
 product_list.innerHTML=in_stock_elements.join("");
+```
 </pre>
 [OUTPUT]
 <img width="907" alt="medium" src="https://github.com/user-attachments/assets/03de89be-0777-4b3e-a518-2df7229f445b" />
