@@ -1,10 +1,13 @@
 # DAY-2 
 # ASSIGNMENT-1
 ## INITIAL WEBSITE WITH HTML CSS
+
 <img width="958" alt="image" src="https://github.com/user-attachments/assets/e293d949-97b7-446d-af65-dacf3a248ee6" />
 
 ## [EASY-1]
+
 [QUESTION]
+
 Select the <h1 id="main-heading"> and change its textContent to "My Awesome Shop".
 [CODE]
 <pre>
