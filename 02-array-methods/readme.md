@@ -14,6 +14,8 @@ function instock(user)
 console.log(inStockProducts);
 </pre>
 [OUTPUT]
+<img width="491" alt="image" src="https://github.com/user-attachments/assets/a3d5bb50-d6d5-489b-b25c-b1678a719ddd" />
+
 
 ## [EASY-2]
 [QUESTION]
@@ -28,6 +30,7 @@ function category(user)
 console.log(bookProducts)
 </pre>
 [OUTPUT]
+<img width="448" alt="image" src="https://github.com/user-attachments/assets/c52d181e-32b3-4e2f-8a3b-b320842d7fe4" />
 
 
 ## [MEDIUM-1]
@@ -43,6 +46,7 @@ function names(user)
 console.log(productNames);
 </pre>
 [OUTPUT]
+<img width="428" alt="image" src="https://github.com/user-attachments/assets/b1099fb9-7b0a-49c0-aad5-51aafb45e7ec" />
 
 
 ## [MEDIUM-2]
@@ -59,6 +63,8 @@ console.log(formatted_string)
 </pre>
 [OUTPUT]
 
+<img width="418" alt="image" src="https://github.com/user-attachments/assets/19a14bd8-7321-4eb1-ad30-f9f12aebb63a" />
+
 
 ## [HARD-1]
 [QUESTION]
@@ -72,6 +78,7 @@ const total_price=products.reduce(function(sum,product)
 console.log(total_price);
 </pre>
 [OUTPUT]
+<img width="422" alt="image" src="https://github.com/user-attachments/assets/456f364a-4526-46ff-a906-2b81d934807e" />
 
 
 ## [HARD-2]
@@ -83,3 +90,4 @@ const eletronic_names=products.filter(product=>product.category=="Electronics").
 console.log(eletronic_names); 
 </pre>
 [OUTPUT]
+<img width="419" alt="image" src="https://github.com/user-attachments/assets/35e88a20-5ec4-4035-af4a-3e99cd0ced0a" />
