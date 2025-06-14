@@ -5,6 +5,8 @@
 1. Select the `<ul id="product-list">`.
 2. Use the `map` method on the `products` array to create an array of `<li>` HTML strings. Each string should contain the product's name. (e.g., `<li>Laptop</li>`).
 3. Set the `innerHTML` of the product list `<ul>` to the joined array of HTML strings.
+
+   
 [CODE]
 <pre>
 const products = [
