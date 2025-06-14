@@ -14,6 +14,9 @@ Select the heading and change its textContent to "My Awesome Shop".
 </pre>
 [OUTPUT]
 
+<img width="956" alt="image" src="https://github.com/user-attachments/assets/b7777a10-a50c-48f7-add3-8303459e3e84" />
+
+
 
 ## [EASY-2]
 [QUESTION]
@@ -24,6 +27,8 @@ Select the paragraph with classname tagline and change its innerHTML to "Find th
 </pre>
 [OUTPUT]
 
+![image](https://github.com/user-attachments/assets/37fdbf28-b690-4ec0-a5c4-3d71b61a060b)
+
 
 ## [EASY-3]
 [QUESTION]
@@ -33,6 +38,9 @@ Select the footer's p and change its text to include your name and the current y
 document.querySelector("footer p").textContent = "&copy; 2025 Charishma Gajula!";
 </pre>
 [OUTPUT]
+
+<img width="955" alt="image" src="https://github.com/user-attachments/assets/5c15ae15-4d6e-4a57-8a82-c29e81981a75" />
+
 
 ## MEDIUM
 [QUESTION]
@@ -54,6 +62,7 @@ main1.append(newp);
 </pre>
 [OUTPUT]
 
+<img width="938" alt="image" src="https://github.com/user-attachments/assets/9c7dcbf6-1ab8-404f-934a-c9236d80a5a3" />
 
 ## HARD
 
@@ -83,7 +92,7 @@ footer.parentNode.insertBefore(newdev, footer);
 </pre>
 [OUTPUT]
 
-
+<img width="923" alt="image" src="https://github.com/user-attachments/assets/c036a219-d8df-444a-ab44-f141719aa5d5" />
 
 
 
