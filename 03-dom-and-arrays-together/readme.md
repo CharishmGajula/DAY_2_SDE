@@ -41,6 +41,8 @@ product_list.innerHTML=array_of_products.join("");
     ```
     
 3. Render these product items inside the `<ul id="product-list">`.
+
+
 [CODE]
 
 ```html
@@ -68,6 +70,8 @@ product_list.innerHTML=in_stock_elements.join("");
     - Add a category-specific class to the `<li>` (e.g., `category-electronics`, `category-books`). You can find these in the CSS file.
 6. Append the fully constructed `<li>` to the `<ul id="product-list">`.
 7. **Bonus:** Use `reduce` to calculate the total value of all products currently in stock. Create a new `div` on the page to display this total (e.g., "Total Value of In-Stock Items: $XXXX").
+
+
 [CODE]
 <pre>
 product_list.innerHTML="";
